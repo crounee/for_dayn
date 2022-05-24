@@ -1,2 +1,2 @@
-work ds
+work=1 ds
 sound
