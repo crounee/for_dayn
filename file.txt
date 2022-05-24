@@ -1,2 +1,2 @@
-work = False
+work = Falseу
 sound = door.mp3
