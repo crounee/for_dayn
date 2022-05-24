@@ -1,2 +1,2 @@
 work = False
-sound = False
+sound = None
