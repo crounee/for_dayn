@@ -1,2 +1,2 @@
-work = False
+work
 sound = dev1.mp3
