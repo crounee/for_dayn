@@ -1,2 +1,2 @@
-work
-soundik
+work = False
+sound = None
