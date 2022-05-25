@@ -1,2 +1,2 @@
 work = False
-sound = door.mp3
+sound = None
