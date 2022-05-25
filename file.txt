@@ -1,2 +1,2 @@
-work = FalseS
+work = False
 sound = None
